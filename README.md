@@ -2,6 +2,8 @@
 
 ![preview_banner](https://github.com/user-attachments/assets/8b03e188-4cc9-4119-b69e-f1b0d3fda0bf)
 
+# MODRINTH PAGE: 
+
 # FEATURES
 - all GUIs in purple
 - plain purple main background
